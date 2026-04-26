@@ -1,5 +1,5 @@
-# Nova-E.R.A
-Loja de Eletrônicos Projeto
+# Nova E.R.A
+Loja de Eletrônicos - Projeto
 
 Este relatório apresenta o desenvolvimento completo da aplicação web Nova E.R.A.
 — uma loja virtual de eletrônicos criada como projeto prático da disciplina de
